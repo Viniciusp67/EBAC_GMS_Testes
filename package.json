@@ -1,0 +1,23 @@
+{
+  "name": "ebac_gms_testes",
+  "version": "1.0.0",
+  "description": "Automação de testes manuais para Golden Movie Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viniciusp67/EBAC_GMS_Testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viniciusp67/EBAC_GMS_Testes/issues"
+  },
+  "homepage": "https://github.com/Viniciusp67/EBAC_GMS_Testes#readme",
+  "dependencies": {
+    "cypress": "^14.3.2"
+  }
+}
